@@ -18,8 +18,8 @@ invite_url = "https://discordapp.com/api/oauth2/authorize?client_id={your bot id
 owner = "@your username and discriminator"  # this line should be set to whoever operates the bot (or rehost)
 
 # prefixes the bot uses
-default_prefix = "!"
+default_prefix = "ntbot"
 prefixes = [
-	"!",
+	"ntbot",
 	"<@{your bot id}>",
 ]
